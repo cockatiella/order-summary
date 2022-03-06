@@ -1,0 +1,62 @@
+/* 'https://www.freepik.com/vectors/phone-cartoon'Phone cartoon vector created by pch.vector - www.freepik.com */
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-clip: border-box;
+  border: 1px solid rgba(129, 127, 127, 0.125);
+  border-radius: 0.25rem;
+  top: 70px;
+
+}
+
+.summary {
+  border-radius: 2%;
+  padding: 15px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.summary h2 {
+  text-align: center;
+  font-weight: bold;
+}
+.anual {
+  font-family: "Ubuntu", sans-serif;
+  padding: 15px;
+  background-color: aliceblue;
+  margin-top: 50px;
+}
+
+.anual a {
+  float: right;
+  position: relative;
+  bottom: 70px;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.anual svg {
+  float: left;
+  position: relative;
+  top: 10px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid grey;
+  background-color: gainsboro;
+  margin-right: 25px;
+}
+
+.btn {
+  width: 40%;
+  padding: 15px;
+  margin: auto;
+}
+.btn-primary,
+.btn-light {
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
